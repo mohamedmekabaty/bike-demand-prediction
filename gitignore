@@ -1,0 +1,10 @@
+# Course data files (download from the UCI link in the README)
+data/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+*.npy
+
+# macOS
+.DS_Store
